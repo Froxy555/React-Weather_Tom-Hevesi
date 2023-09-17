@@ -3,12 +3,12 @@ import { createContext } from "react";
 const initialAppState = {
   weather: null,
   unit: "C",
-  city: "Delhi",
-  country: "IN",
-  isDark: false,
+  city: "Mátészalka",
+  country: "HU",
+  isDark: true,
   geoCoords: {
-    lon: 77.2167,
-    lat: 28.6667,
+    lon: 22.0333,
+    lat: 47.9500,
   },
 };
 
